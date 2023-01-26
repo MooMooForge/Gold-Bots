@@ -3,7 +3,7 @@ This script allows you to create bots that will follow your character. The bots 
 
 ## Installation
 1. Install a userscript manager extension for your browser, such as [Tampermonkey](https://www.tampermonkey.net/)
-2. Click on [this link](https://github.com/MooMooForge/Gold-Bots/raw/main/gold-bots.user.js) to install the script.
+2. Click on [this link](https://github.com/MooMooForge/Gold-Bots/releases/latest) to install the script.
 3. Enjoy your bots!
 
 ## Usage
