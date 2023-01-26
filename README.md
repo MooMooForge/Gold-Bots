@@ -19,7 +19,7 @@ The send command only works if after you joined a game you activated a VPN, whic
 ## Support
 If you have any issues or questions about the script, please contact the author or join our discord server:
 
-Author: [Nuro](https://github.com/NuroC)
-GitHub: https://moomooforge.github.io/MooMoo.js/
-YouTube: https://www.youtube.com/@nuro9607
-Discord: https://discord.gg/NMS3YR9Q5R
+- Author: [Nuro](https://github.com/NuroC)
+- GitHub: https://moomooforge.github.io/MooMoo.js/
+- YouTube: https://www.youtube.com/@nuro9607
+- Discord: https://discord.gg/NMS3YR9Q5R
