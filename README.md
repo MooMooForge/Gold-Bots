@@ -1,7 +1,12 @@
 # MooMoo.io Gold Bots
-This script allows you to create bots that will follow your character. The bots will have a specific name, skin and follow you around the map. The script uses the [MooMoo.js](https://moomooforge.github.io/MooMoo.js/) library to create and control the bots.
+This script allows you to create bots that will follow your character. The bots will have a specific name, skin and follow you around the map.
+<center>
+<img src="https://i.imgur.com/JjtrJGF.png" height="300em"/>
+</center>
 
-## Installation
+**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
+
+## How to install
 1. Install a userscript manager extension for your browser, such as [Tampermonkey](https://www.tampermonkey.net/)
 2. Click on [this link](https://github.com/MooMooForge/Gold-Bots/releases/latest) to install the script.
 3. Enjoy your bots!
