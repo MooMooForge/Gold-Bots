@@ -1,8 +1,8 @@
 # MooMoo.io Gold Bots
-This script allows you to create bots that will follow your character. The bots will have a specific name, skin and follow you around the map.
-<center>
+> spawns bots that will follow your character. The bots will follow you around the map and bring you animals and free food.
+
 <img src="https://i.imgur.com/JjtrJGF.png" height="300em"/>
-</center>
+
 
 **[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
 
