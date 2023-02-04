@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/JjtrJGF.png" height="300em"/>
 
 
-**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
+**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/458726-moomoo-io-gold-bots)**
 
 ## How to install
 1. Install a userscript manager extension for your browser, such as [Tampermonkey](https://www.tampermonkey.net/)
